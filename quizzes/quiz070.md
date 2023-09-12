@@ -5,7 +5,7 @@ Create the code for the IPv4 machine
 
 ## Working on paper
 
-![IMG_9452.jpg]
+![IMG_9452.jpg](https://github.com/loogmaii/year_2/blob/main/quizzes/images/IMG_9452.jpg)
 
 <sub>Fig.1 shows the working on paper
 
@@ -22,5 +22,7 @@ def ipv4machine():
 ```
 
 ## Evidence
+
+![IMG_9452.jpg](https://github.com/loogmaii/year_2/blob/main/quizzes/images/IMG_9452.jpg)
 
 <sub>Fig.2 shows the results of the program
