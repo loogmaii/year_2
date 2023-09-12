@@ -5,7 +5,7 @@ Create the code for the IPv4 machine
 
 ## Working on paper
 
-
+![IMG_9452.jpg]
 
 <sub>Fig.1 shows the working on paper
 
