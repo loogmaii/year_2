@@ -1,6 +1,9 @@
-# Quiz ?
+# Quiz?
 
 ## Working on paper
+
+<sub>Fig.1 shows the working on paper
+
 
 ## Code
 
@@ -10,5 +13,5 @@
 
 ## Evidence
 
-<sub>Fig.1 shows results of the program
+<sub>Fig.2 shows the results of the program
 
